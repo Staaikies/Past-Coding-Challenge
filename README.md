@@ -1,4 +1,4 @@
-# Coding-Challenge
+# Past Coding-Challenge
 Sign up page built with HTML, CSS and JavaScript
 
 ## How to setup
