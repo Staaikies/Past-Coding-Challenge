@@ -1,4 +1,4 @@
-# Past Coding-Challenge
+# Past Coding Challenge (2019)
 Sign up page built with HTML, CSS and JavaScript
 
 ## How to setup
